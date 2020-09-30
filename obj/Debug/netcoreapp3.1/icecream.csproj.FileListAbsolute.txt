@@ -1,0 +1,13 @@
+C:\Users\Donna\Documents\GitHub\icecream\obj\Debug\netcoreapp3.1\icecream.csprojAssemblyReference.cache
+C:\Users\Donna\Documents\GitHub\icecream\obj\Debug\netcoreapp3.1\icecream.AssemblyInfoInputs.cache
+C:\Users\Donna\Documents\GitHub\icecream\obj\Debug\netcoreapp3.1\icecream.AssemblyInfo.cs
+C:\Users\Donna\Documents\GitHub\icecream\obj\Debug\netcoreapp3.1\icecream.csproj.CoreCompileInputs.cache
+C:\Users\Donna\Documents\GitHub\icecream\bin\Debug\netcoreapp3.1\icecream.exe
+C:\Users\Donna\Documents\GitHub\icecream\bin\Debug\netcoreapp3.1\icecream.deps.json
+C:\Users\Donna\Documents\GitHub\icecream\bin\Debug\netcoreapp3.1\icecream.runtimeconfig.json
+C:\Users\Donna\Documents\GitHub\icecream\bin\Debug\netcoreapp3.1\icecream.runtimeconfig.dev.json
+C:\Users\Donna\Documents\GitHub\icecream\bin\Debug\netcoreapp3.1\icecream.dll
+C:\Users\Donna\Documents\GitHub\icecream\bin\Debug\netcoreapp3.1\icecream.pdb
+C:\Users\Donna\Documents\GitHub\icecream\obj\Debug\netcoreapp3.1\icecream.dll
+C:\Users\Donna\Documents\GitHub\icecream\obj\Debug\netcoreapp3.1\icecream.pdb
+C:\Users\Donna\Documents\GitHub\icecream\obj\Debug\netcoreapp3.1\icecream.genruntimeconfig.cache
